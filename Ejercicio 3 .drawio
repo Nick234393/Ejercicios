@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="TNy0SR-Yc89Jz7xvhuTZ">
+    <mxGraphModel dx="1653" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-2" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FwFv2T3Zi0zRI0-VM_rc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-4" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FwFv2T3Zi0zRI0-VM_rc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-3" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;Ingrese sueldo&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-6" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FwFv2T3Zi0zRI0-VM_rc-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="sueldo" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-8" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-10" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="edad&amp;gt;= 18 Y sueldo &amp;gt;=1.000.000" vertex="1">
+          <mxGeometry height="160" width="150" x="355" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="si" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-14" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-12" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;No debe tributar&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-15" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-13" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;Debe tributar&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-18" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-19" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-20" edge="1" parent="1" source="FwFv2T3Zi0zRI0-VM_rc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FwFv2T3Zi0zRI0-VM_rc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="430" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="fin" vertex="1">
+          <mxGeometry height="80" width="120" x="390" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-22" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;Ingrese edad&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FwFv2T3Zi0zRI0-VM_rc-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="edad" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
